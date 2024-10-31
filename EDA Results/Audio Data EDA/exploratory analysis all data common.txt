@@ -1,0 +1,40 @@
+Statistics:
+Age_Distribution: age
+twenties     163496
+fourties     161247
+thirties     149625
+fifties      102957
+teens         26669
+sixties       20777
+seventies      1824
+nineties         50
+eighties         47
+Name: count, dtype: int64
+Gender Distribution: gender
+male_masculine     546006
+female_feminine     77106
+non-binary             31
+transgender             1
+Name: count, dtype: int64
+Accent Distribution: accents
+Deutschland Deutsch                                                                                                                   509786
+Nordrhein-Westfalen,Bundesdeutsch, Hochdeutsch,Deutschland Deutsch                                                                     64811
+Österreichisches Deutsch                                                                                                               23823
+Schweizerdeutsch                                                                                                                       15035
+Französisch Deutsch                                                                                                                     1460
+                                                                                                                                       ...  
+Ungarisch Deutsch,Ruhrdeutsch                                                                                                              3
+nach Norddeutschland ausgewanderter Franke - hart/weiche Konsonanten verschwimmen, weichere Sprachmelodie als typisch norddeutsche         3
+Badisch                                                                                                                                    1
+Dänisch Deutsch                                                                                                                            1
+Deutschland Deutsch,Polnisch Deutsch                                                                                                       1
+Name: count, Length: 128, dtype: int64
+Sentence Domain: sentence_domain
+general                   29
+service_retail             8
+history_law_government     6
+healthcare                 4
+nature_environment         2
+automotive_transport       1
+news_current_affairs       1
+Name: count, dtype: int64

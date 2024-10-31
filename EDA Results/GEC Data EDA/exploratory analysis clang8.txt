@@ -1,0 +1,19 @@
+Statistics:
+total_records: 112730
+average_length: 9.619444690854253
+min_length: 0
+max_length: 1685
+median_length: 8.0
+No corrections/Blank: 148
+
+Sentiment Analysis:
+Positive: 25599
+Negative: 10582
+Neutral: 76549
+
+Topic modelling:
+0: 0.019*"mehr" + 0.011*"Zeit" + 0.010*"schreiben" + 0.010*"weiß" + 0.010*"immer" + 0.009*"Menschen" + 0.009*"gehen" + 0.008*"Leben" + 0.007*"gibt" + 0.006*"vielleicht"
+1: 0.010*"Mutter" + 0.010*"schön" + 0.009*"Mann" + 0.009*"Frau" + 0.009*"geht" + 0.007*"Vielleicht" + 0.007*"schreibe" + 0.006*"Vater" + 0.006*"Hallo" + 0.006*"Wetter"
+2: 0.049*"``" + 0.048*")" + 0.038*"(" + 0.031*":" + 0.012*"Jahre" + 0.009*"Arbeit" + 0.009*"Uhr" + 0.008*";" + 0.007*"bitte" + 0.007*"alt"
+3: 0.029*"viele" + 0.019*"gibt" + 0.010*"mag" + 0.010*":" + 0.009*"Gespräche" + 0.008*"sehen" + 0.008*"Leute" + 0.007*"2" + 0.006*"geschrieben" + 0.006*"Freunde"
+4: 0.040*"Deutsch" + 0.019*"Deutschland" + 0.016*"Tag" + 0.013*"lernen" + 0.012*"möchte" + 0.011*"Heute" + 0.010*"gut" + 0.010*"Jahr" + 0.009*"Japan" + 0.009*"sprechen"

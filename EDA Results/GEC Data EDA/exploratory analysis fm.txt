@@ -1,0 +1,19 @@
+Statistics:
+total_records: 19237
+average_length: 16.136923636741695
+min_length: 1
+max_length: 131
+median_length: 14
+No corrections/Blank: 0
+
+Sentiment Analysis:
+Positive: 6046
+Negative: 2127
+Neutral: 11064
+
+Topic modelling:
+0: 0.095*"." + 0.052*""" + 0.038*"!" + 0.024*"," + 0.013*"Jahr" + 0.012*"wünsche" + 0.012*"Antwort" + 0.011*"Brief" + 0.007*"Dank" + 0.007*"paar"
+1: 0.102*"." + 0.084*"," + 0.058*"?" + 0.024*"Wohnung" + 0.024*"möchte" + 0.015*"Familie" + 0.013*"geht" + 0.011*"gut" + 0.009*"Zeit" + 0.008*"Haus"
+2: 0.088*"." + 0.074*"," + 0.031*"Frauen" + 0.018*"Viele" + 0.016*"Traditionen" + 0.015*"Feminismus" + 0.013*"Kultur" + 0.010*"Männer" + 0.007*"Zimmer" + 0.007*"Gastlandes"
+3: 0.086*"." + 0.061*"," + 0.050*"Stadt" + 0.036*"X" + 0.015*"Liebe" + 0.014*"Maria" + 0.014*"Grüße" + 0.012*"freundlichen" + 0.011*"geehrte" + 0.011*"Herren"
+4: 0.167*"," + 0.101*"." + 0.010*"gibt" + 0.009*"viele" + 0.007*"Leute" + 0.007*"Sprache" + 0.006*"immer" + 0.006*"lernen" + 0.006*"mehr" + 0.006*"Arbeit"

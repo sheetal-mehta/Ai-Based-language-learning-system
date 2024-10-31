@@ -1,0 +1,39 @@
+Statistics:
+Age_Distribution: age
+fourties     8288
+twenties     8242
+thirties     7599
+fifties      5377
+teens        1287
+sixties      1027
+seventies      88
+eighties        3
+nineties        1
+Name: count, dtype: int64
+Gender Distribution: gender
+male_masculine     27808
+female_feminine     3877
+non-binary             1
+Name: count, dtype: int64
+Accent Distribution: accents
+Deutschland Deutsch                                                   25813
+Nordrhein-Westfalen,Bundesdeutsch, Hochdeutsch,Deutschland Deutsch     3388
+Österreichisches Deutsch                                               1199
+Schweizerdeutsch                                                        741
+Französisch Deutsch                                                      82
+                                                                      ...  
+Alemannische Färbung,Schweizer Standart Deutsch                           1
+Slowenisch Deutsch                                                        1
+Finnisch Deutsch                                                          1
+Normales etwas überdeutlich gesprochenes Deutsch                          1
+Hochdeutsch Schweiz                                                       1
+Name: count, Length: 71, dtype: int64
+Sentence Domain: sentence_domain
+service_retail          1
+news_current_affairs    1
+general                 1
+Name: count, dtype: int64
+Mean: 10.184904613546157
+Median: 10.0
+Min: 0
+Max: 30
